@@ -26,9 +26,7 @@ Back-End에 대한 관심을 바탕으로 node.js에 대한 매력을 느끼기 
 <img src="/join.png" width="40%" height="30%" title="상대방접속사진" alt=""></img>
 상대방의 접속을 띄움
 #### 2.1.3. 로그인 정보를 통해 이전에 대화내역 출력
-'''
-<iframe width="640" height="360" src="https://youtu.be/7TgVLb3kHW4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-'''
+'''<iframe width="640" height="360" src="https://youtu.be/7TgVLb3kHW4" frameborder="0" gesture="media" allowfullscreen=""></iframe>'''
 [![Watch the video]](https://youtu.be/7TgVLb3kHW4)
 [![Alt text]()](https://youtu.be/7TgVLb3kHW4)
 ### 2.2. N차 개발물
